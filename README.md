@@ -44,6 +44,8 @@ In orer to gain a comprehensive overview of our lending operation and monitor th
 
 4. Loan consolidation purpose had the highest number loan applicant
 
+5. California has the highest number of loan applicant,taking 17.82% of the loan application
+
 
 
 
