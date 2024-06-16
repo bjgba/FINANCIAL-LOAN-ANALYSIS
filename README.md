@@ -40,11 +40,11 @@ In orer to gain a comprehensive overview of our lending operation and monitor th
 
 2.13.82% contribute to the percentage of the bad loan issued while 86.18% to the good loan.
 
-3. Loan term of 60months has the higest number of applicant.
+3.Loan term of 60months has the higest number of applicant.
 
-4. Loan consolidation purpose had the highest number loan applicant
+4.Loan consolidation purpose had the highest number loan applicant
 
-5. California has the highest number of loan applicant,taking 17.82% of the loan application
+5.California has the highest number of loan applicant,taking 17.82% of the loan application
 
 
 
