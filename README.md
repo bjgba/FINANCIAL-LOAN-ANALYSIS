@@ -28,7 +28,7 @@ MICROSOFT SQL SERVER
 
 4.Comparing Key performance metrics for loan
 
-5. Computing good and bad loan with the use of IF statemnent from the loan status column
+5.Computing good and bad loan with the use of IF statemnent from the loan status column
 
 **LOAN  STATUS GRID VIEW**
 In orer to gain a comprehensive overview of our lending operation and monitor the performance of loans ,we aim  to create a grid view report categorised by 'loan status' by providing insights into metrics  such as 'total loan application','total funded amount','total amount received','momth-to-month'(MOM),'month-to-date',(MTD),'amount received',average interest rate', and 'average dedet to income ratio' (DTI), this grid allowed us to access the health of our loan 
